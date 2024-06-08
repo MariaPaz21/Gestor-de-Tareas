@@ -431,13 +431,11 @@ La tarea consiste en añadir nuevas características a la aplicación de Gestor 
 **Descripción:**
 - Permitir a los usuarios asignar una prioridad a cada tarea (baja, media, alta).
 - Implementar comandos en la CLI para filtrar tareas por prioridad.
-- Modificar el modelo de `Tarea` para incluir un campo de prioridad.
 
 ### 2. Fechas de Vencimiento
 **Descripción:**
 - Permitir a los usuarios asignar una fecha de vencimiento a cada tarea.
 - Implementar comandos en la CLI para mostrar tareas que están próximas a vencer.
-- Modificar el modelo de `Tarea` para incluir un campo de fecha de vencimiento.
 
 ### 3. Exportar Tareas
 **Descripción:**
@@ -449,7 +447,6 @@ La tarea consiste en añadir nuevas características a la aplicación de Gestor 
 **Descripción:**
 - Permitir a los usuarios ver un historial de todas las tareas que han sido completadas.
 - Implementar comandos en la CLI para listar y filtrar tareas completadas por fecha de finalización.
-- Modificar el modelo de `Tarea` para incluir un campo de fecha de finalización.
 
 
 ## Entregables
